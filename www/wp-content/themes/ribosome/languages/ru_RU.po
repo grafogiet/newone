@@ -1,0 +1,884 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ribosome v10.6.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-30 17:45+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ribosome
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ошибка 404. Страница не найдена"
+
+# @ ribosome
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, нельзя найти то, что Вы ищете. Попробуйте воспользоваться поиском по сайту."
+
+# @ ribosome
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+# @ ribosome
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+# @ ribosome
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ ribosome
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+# @ ribosome
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ ribosome
+#: archive.php:23
+msgid "Archives"
+msgstr "Архивы"
+
+# @ ribosome
+#: author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Автор: %s"
+
+# @ ribosome
+#: author.php:41 content.php:144
+#, php-format
+msgid "About %s"
+msgstr "Об %s"
+
+# @ ribosome
+#: category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Категория: %s"
+
+# @ ribosome
+#: comments.php:24
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ ribosome
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ ribosome
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ ribosome
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &larr;"
+
+# @ ribosome
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Комментарии отключены."
+
+# @ ribosome
+#: content-none.php:11 index.php:48 search.php:32
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ ribosome
+#: content-none.php:15 index.php:52
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском."
+
+# @ ribosome
+#: content-page.php:19 content.php:97 image.php:98
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ ribosome
+#: content-page.php:22 content.php:127 functions.php:327 image.php:33
+#: template-parts/sticky.php:48
+msgid "Edit"
+msgstr "Изменить"
+
+# @ ribosome
+#: content.php:96
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Подробнее <span class=\"meta-nav\">&rarr;</span>"
+
+# @ ribosome
+#: content.php:148
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Просмотр всех записей  %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ ribosome
+#: footer.php:13 inc/ribosome-lite-customizer.php:553
+msgid "Copyright 2015"
+msgstr ""
+
+# @ ribosome
+#: footer.php:14 inc/ribosome-lite-customizer.php:560
+#: inc/ribosome-lite-customizer.php:563
+msgid "Footer text center"
+msgstr ""
+
+# @ ribosome
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ ribosome
+#: functions.php:99
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ ribosome
+#: functions.php:105
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+# @ ribosome
+#: functions.php:222
+msgid "Main Sidebar"
+msgstr ""
+
+# @ ribosome
+#: functions.php:224
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr ""
+
+# @ ribosome
+#: functions.php:232
+msgid "Ribosome: Below entries title"
+msgstr ""
+
+# @ ribosome
+#: functions.php:233
+msgid "Appears below entries title"
+msgstr ""
+
+# @ ribosome
+#: functions.php:242
+msgid "Ribosome: End of entries"
+msgstr ""
+
+# @ ribosome
+#: functions.php:243
+msgid "Appears at the end of entries content"
+msgstr ""
+
+# @ ribosome
+#: functions.php:266 single.php:20
+msgid "Post navigation"
+msgstr "Навигация по записи"
+
+# @ ribosome
+#: functions.php:268
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+# @ ribosome
+#: functions.php:269
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+# @ ribosome
+#: functions.php:295
+msgid "Pingback:"
+msgstr ""
+
+# @ ribosome
+#: functions.php:295
+msgid "(Edit)"
+msgstr " (Изменить)"
+
+# @ ribosome
+#: functions.php:310
+msgid "Post author"
+msgstr "Автор записи"
+
+# @ ribosome
+#. translators: 1: date, 2: time
+#: functions.php:316
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ ribosome
+#: functions.php:322
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+# @ ribosome
+#: functions.php:331
+msgid "Reply"
+msgstr "Ответить"
+
+# @ ribosome
+#: functions.php:352 functions.php:355
+msgid ", "
+msgstr ""
+
+# @ ribosome
+#: functions.php:366
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи %s"
+
+# @ ribosome
+#: functions.php:372
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Эта статья была размещена в %1$s с метками %2$s от %3$s<span class=\"by-author\"> автора  %4$s</span>."
+
+# @ ribosome
+#: functions.php:374
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Статья была опубликована в %1$s  %3$s<span class=\"by-author\">автором %4$s</span>."
+
+# @ ribosome
+#: functions.php:376
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Статья была опубликована на %3$s <span class=\\\"by-author\\\">на %4$s.</span>"
+
+# @ ribosome
+#: functions.php:471
+msgid "Read more"
+msgstr "Подробнее"
+
+# @ ribosome
+#: header.php:74 template-parts/top-bar.php:7
+msgid "MENU"
+msgstr "МЕНЮ"
+
+# @ ribosome
+#: header.php:82
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ ribosome
+#: image.php:22
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубликовано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> - <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> - <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+# @ ribosome
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущее"
+
+# @ ribosome
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:110
+msgid "General settings"
+msgstr "Общие параметры"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:119
+msgid "Site Identity"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:129
+msgid "Colors"
+msgstr "Цвета"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:140
+msgid "Theme color"
+msgstr "Цвет темы"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:146
+msgid "Blue"
+msgstr "Синий"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:147
+msgid "Green"
+msgstr "Зеленый"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:148
+msgid "Orange"
+msgstr "Оранжевая"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:149
+msgid "Pink"
+msgstr "Розовый"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:150
+msgid "Red"
+msgstr "Красный"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:160
+msgid "Apply to top bar"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:162
+msgid "(Uncheck: Black)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:170
+msgid "Apply to entry title in excerpts"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:179
+msgid "Apply to the left border of extracts"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:188
+msgid "Apply to widget title"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:190 inc/ribosome-lite-customizer.php:418
+msgid "(Uncheck: Light gray)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:198
+msgid "Apply to the header when there is no image"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:200
+msgid "(Uncheck: White)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:210
+msgid "Fonts"
+msgstr "Шрифты"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:219
+msgid "Select font"
+msgstr "Выберите Шрифт"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:251
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:261
+msgid "Header"
+msgstr "Шапка"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:270
+msgid "Top bar and social icons"
+msgstr "Топ иконки социальных сетей"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:271
+msgid "(Leave blank text boxes to not display icons)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:279
+msgid "Display top bar"
+msgstr "Отображать верхнюю панель"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:287
+msgid "Display blog title in top bar"
+msgstr "Отображать заголовок блога в верхней панели"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:295
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:302
+msgid "Twitter URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:309
+msgid "Facebook URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:316
+msgid "Google Plus URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:323
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:330
+msgid "YouTube URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:337
+msgid "Instagram URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:344
+msgid "Pinterest URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:351
+msgid "RSS URL"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:362
+msgid "Header Image"
+msgstr "Изображение шапки"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:370
+msgid "Header image is a logo"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:372
+msgid "(You must have this option checked to apply the following)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:379
+msgid "Apply logo margins"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:388
+msgid "Center logo"
+msgstr "Центр логотип"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:397
+msgid "With logo, white background"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:398
+msgid "(Uncheck: Theme color)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:408
+msgid "Main Menu"
+msgstr "Главное Меню"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:416
+msgid "Black menu"
+msgstr "Черное меню"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:425
+msgid "Show line above the menu"
+msgstr "Показать линию над меню"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:432
+msgid "Center menu"
+msgstr "Центр меню"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:442
+msgid "Content"
+msgstr "Контент"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:451
+msgid "Sidebar"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:462
+msgid "Select sidebar position"
+msgstr "Выберите расположение сайдбара"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:467
+msgid "Left"
+msgstr "Слева"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:468
+msgid "Right"
+msgstr "Справа"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:480
+msgid "Posts"
+msgstr "Записи"
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:487
+msgid "Show full content of the entries in the main page."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:494
+msgid "Excerpt's thumbnail image rounded"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:501
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:508
+msgid "Entry text justified"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:515
+msgid "Display related posts at the end of entries"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:522
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:529
+msgid "Display 'Back to top' button"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:539
+msgid "Footer"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:548
+msgid "Footer text"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-customizer.php:556
+msgid "Footer text left"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:6
+msgid "Ribosome Help"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:99
+msgid "Thank you for choosing Ribosome"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:101
+msgid "Ribosome is a simple and light WordPress theme with a clear and neat design. Some its features are: header image or logo, custom theme color (blue, green, orange or pink), right sidebar or left, excerpts or entire entries on homepage, main menu on the left or centered, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), related posts, customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:103
+msgid "Ribosome Quick Start Guide"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:105
+msgid "Important: thumbnails"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:106
+msgid "For images appear on the homepage, you must set the featured image of the posts."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:108
+msgid "If Ribosome is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:110
+msgid "Customize Ribosome"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:111
+msgid "To customize Ribosome go to <i>Appearance > Customize</i>"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:112
+msgid "To receive support from us or other users visit the <a href=\"https://wordpress.org/support/theme/ribosome\">Ribosome forum support on WordPress.org</a>"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:114
+msgid "Logo in the header"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:117
+msgid "if you choose a logo, instead full image for the header, check the option \"Header image is a logo\" (at the end of the section Header Image). Then, to apply margins and center the logo activates the appropriate boxes."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:120
+msgid "Rating and Review"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:121
+msgid "Please, if you are happy with the theme, say it on wordpress.org and give Ribosome a nice review. Thank you."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:124
+msgid "Review Ribosome"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:133
+msgid "With <strong>Ribosome Pro</strong> you can set up your blog with everything you need in minutes."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:141
+msgid "Live Demo"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:142
+msgid "Buy"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:143
+msgid "Compare with Lite Version"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:149
+msgid "Features"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:153
+msgid "Forum support"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:154
+msgid "Unlimited theme colors"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:155
+msgid "CSS editor integrated in the customizer. You can make changes without modifying the style.css file."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:156
+msgid "Light gray main menu or black"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:157
+msgid "Sidebar left or right"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:158
+msgid "Show extract or whole post on homepage."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:159
+msgid "7 widgets areas to add AdSense code or anything else"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:160
+msgid "Easily add yor Login Logo"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:161
+msgid "Available 15 differents Google fonts"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:162
+msgid "6 Custom widgets (Facebook Page Plugin, Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription, Meta Widget with dashicons and ability to show/hide links)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:163
+msgid "Related posts with thumbnails"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:164
+msgid "Show/Hide post meta (author, date, comments number)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:165
+msgid "Breadcrumb navigation"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:166
+msgid "Custom pagination"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:167
+msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:168
+msgid "Social networks in user profile"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:169
+msgid "Google Plus Authorship Integration"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:170
+msgid "Easily apply Ribosome style to bbPress, just check the option."
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:171
+msgid "Google Analytics ready, just paste the code"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:172
+msgid "AddThis ready, just paste the code"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:173
+msgid "Translation Ready (.po file integrated)"
+msgstr ""
+
+# @ ribosome
+#: inc/ribosome-lite-help.php:174
+msgid "Integrated Spanish and English"
+msgstr ""
+
+# @ ribosome
+#: index.php:37
+msgid "No posts to display"
+msgstr "Нет записей для отображения"
+
+# @ ribosome
+#: index.php:41
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы написать первую запись? <a href=\"%s\">Начать здесь</a>."
+
+# @ ribosome
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ ribosome
+#: search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+# @ ribosome
+#: searchform.php:3 searchform.php:5 template-parts/menu-movil.php:12
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr "Поиск"
+
+# @ ribosome
+#: single.php:22
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+# @ ribosome
+#: single.php:23
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+# @ ribosome
+#: tag.php:15
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метки: %s"
+
+# @ ribosome
+#: template-parts/menu-movil.php:13
+msgid "Search..."
+msgstr "Поиск..."
+
+# @ ribosome
+#: template-parts/related-posts.php:28
+msgid "Related posts"
+msgstr "Похожие записи"
+
+# @ ribosome
+#: template-parts/sticky.php:10
+msgid "Featured post"
+msgstr "Лучшая запись"
