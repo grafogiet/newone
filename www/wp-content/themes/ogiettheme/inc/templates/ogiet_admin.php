@@ -1,3 +1,6 @@
 <h1>Ogiet Theme Options</h1>
-<h3 class="title">Управление опциями</h3>
-<p>Изменение дефолтного WP</p>
+<form method="post" action="">
+    <?php settings_fields('ogiet-settings-group');?>
+    <?php do_settings_sections('graf_ogiet')?>
+    <?php submit_button(); ?>
+</form>
