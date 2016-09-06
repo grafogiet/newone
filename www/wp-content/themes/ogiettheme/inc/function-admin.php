@@ -34,7 +34,8 @@ function ogiet_sidebar_options () {
 }
 
 function ogiet_sidebar_name() {
-   echo '<input type="text" name="first_name" value=""/>';
+    $firstName = esc_attr(get_option('first_name'));
+   echo '<input type="text" name="first_name" value="'.$firstName.'" placeholder=""/>';
 }
 
 function ogiet_theme_create_page () {
